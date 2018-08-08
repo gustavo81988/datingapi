@@ -1,0 +1,14 @@
+/home/tavo/tutorials/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/home/tavo/tutorials/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/home/tavo/tutorials/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/home/tavo/tutorials/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/home/tavo/tutorials/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/home/tavo/tutorials/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
